@@ -113,5 +113,5 @@ This project utilizes various Tailwind CSS utilities and CSS techniques to creat
 - [Tailwind CLI Guide](https://tailwindcss.com/docs/installation)
 
 ---
-
+Author: Aman Umrethe
 **Happy Coding!** 🚀
